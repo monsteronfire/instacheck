@@ -1,28 +1,21 @@
-== README
+*******************************************************************************
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Instagram REST and Search APIs
+------------------------------
+Our developer site documents all the Instagram REST and Search APIs.
+(http://instagram.com/developer)
 
-Things you may want to cover:
+Blog
+----------------------------
+The Developer Blog features news and important announcements about the Instagram Platform.
+You will also find tutorials and best practices to help you build great platform integrations.
+Make sure to subscribe to the RSS feed so you don't miss out on new posts:
+(http://developers.instagram.com).
 
-* Ruby version
+Community
+----------------------
+The Stack Overflow community is a great place to ask API related questions or if you need help with your code.
+Make sure to tag your questions with the Instagram tag to get fast answers from other fellow developers and members of the Instagram team.
+(http://stackoverflow.com/questions/tagged/instagram/)
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+********************************************************************************
