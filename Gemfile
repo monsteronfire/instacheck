@@ -13,6 +13,9 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 # Instacheck Germs
 gem 'instagram'
+gem 'slim-rails'
+gem 'bootstrap-sass'
+gem 'simple_form'
 
 group :development, :test do
   gem 'byebug'
@@ -20,7 +23,7 @@ end
 
 group :development do
   gem 'web-console', '~> 2.0'
-
+  gem "better_errors"
   gem 'spring'
 end
 
