@@ -1,2 +1,7 @@
-h1 Home#index
-p Find me in app/views/home/index.html.erb
+h1 Standing Theory Turns 2
+p Instagram Look Up
+
+- @recent.each do |recent|
+  .thumbnail
+    / = image_tag recent.images.low_resolution.url
+    p= recent.username
